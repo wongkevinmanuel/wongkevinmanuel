@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wongkevinmanuel
-- 👀 I’m interested in Taekwondo, code.
-- 🌱 I’m currently learning java, spring boot, typescript
+- 👀 I’m interested in code, taekwondo, exercise.
+- 🌱 I work with java, spring boot, typescript, next.js.
 - 💞️ I’m looking to collaborate on project java.
 - 📫 How to reach me onofrekevin@gmail.com
 
