@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin.
 - 👀 I’m interested in code, taekwondo, exercise.
-- 🌱 I work with java jsf, spring boot, typescript, next.js.
+- 🌱 I work with java, spring boot, jsf,typescript, next.js.
 - 📫 How to reach me onofrekevin@gmail.com
 
 <!---
