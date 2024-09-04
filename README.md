@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin.
 - 👀 I’m interested in code, taekwondo, exercise.
-- 🌱 I work with java, spring boot, jsf,typescript, next.js.
+- 🌱 I work with java, spring boot,typescript, next.js.
 
 <!---
 wongkevinmanuel/wongkevinmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
