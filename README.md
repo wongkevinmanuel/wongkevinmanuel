@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin.
 - 👀 I’m interested in code, taekwondo, exercise.
-- 🌱 I work with java, spring boot,typescript, next.js.
+- 🌱 I work with Java, Spring boot, Next.js.
 - Look!!! It's fun:
 - [https://gif-expert-app-kevin.netlify.app/](https://wongkevinmanuel.github.io/react-gif-expect/)
 - https://pokemon-pag-estati-next-5sgfc9v3o-kevinwongm.vercel.app/
