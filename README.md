@@ -2,7 +2,6 @@
 - Look!!! It's fun:
 - [https://gif-expert-app-kevin.netlify.app/](https://wongkevinmanuel.github.io/react-gif-expect/)
 - https://pokemon-pag-estati-next-5sgfc9v3o-kevinwongm.vercel.app/
-- https://heroes-app-spa-alpha.vercel.app/marvel
 <!---
 wongkevinmanuel/wongkevinmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
